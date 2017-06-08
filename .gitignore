@@ -1,2 +1,5 @@
 Debug/
 Release/
+.vs
+.idea
+cmake-build-debug
